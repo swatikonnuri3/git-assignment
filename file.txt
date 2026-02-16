@@ -1,2 +1,4 @@
-hii 
-this is swati 
+Git Assignment
+Name: Swati Konnuri
+Step 4: Edited this file to demonstrate file modification.
+Date: 16-02-2026
